@@ -1,16 +1,39 @@
-## Hi there 👋
+## Samuel Laurindo
 
-<!--
-**smlaurindo/smlaurindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Backend Java`**
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante de **Ciência da Computação**
+- Focado em evoluir no **Backend com Java/Spring Boot**  
+- Side-project enjoyer 😎
+
+## 🛠️ Tech Stack
+
+Eu também sei apagar incendios no frontend e no mobile
+
+- **Linguagens:** Java, JavaScript e TypeScript
+- **Frameworks:**  
+  - **Backend:** Spring Boot, NestJS e Fastify  
+  - **Frontend:** ReactJS, NextJS e TailwindCSS
+  - **Mobile:** React Native e Expo
+- **Ferramentas:** Docker, Postman
+- **Bancos:** PostgreSQL e Redis
+
+## 📌 Projetos
+
+### 🔹 pingspace.app
+
+Plataforma de notificação de eventos em tempo real ⚡  
+Crie seus próprios spaces, convide usuários e publique ou assine tópicos.
+
+- **Frontend:** TypeScript, ReactJS, NextJS
+- **Backend:** NestJS, Drizzle ORM e PostgreSQL
+
+**Link do projeto:** [pingspace.app](https://pingspace.app)  
+**Link do repositório:** [smlaurindo/pingspace.app](https://github.com/smlaurindo/pingspace.app)
+
+## 🌐 Onde me encontrar
+
+- **LinkedIn:** https://www.linkedin.com/in/samuel-laurindo-de-lima
+- **GitHub:** https://github.com/smlaurindo (Você já está aqui 😅)
