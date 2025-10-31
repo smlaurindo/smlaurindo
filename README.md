@@ -1,23 +1,34 @@
-## Samuel Laurindo
+## Stack Principal
 
-**`Desenvolvedor Backend Java`**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="nestjs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+</div>
 
 ## Sobre mim
 
 - Estudante de **Ciência da Computação**
-- Focado em evoluir no **Backend com Java/Spring Boot**  
+- Focado em Backend com **Java + Spring Boot**
 - Side-project enjoyer 😎
 
 ## 🛠️ Tech Stack
 
-Eu também sei apagar incendios no frontend e no mobile
+Backend é meu foco, mas atuo no Frontend e no Mobile quando faz sentido pro produto
 
-- **Linguagens:** Java, JavaScript e TypeScript
-- **Frameworks:**  
-  - **Backend:** Spring Boot, NestJS e Fastify  
-  - **Frontend:** ReactJS, NextJS e TailwindCSS
-  - **Mobile:** React Native e Expo
-- **Ferramentas:** Docker, Postman
+- **Linguagens:** Java e TypeScript
+- **Backend:** Spring Boot e NestJS
+- **Frontend:** ReactJS, NextJS e TailwindCSS
+- **Mobile:** React Native com Expo
+- **Infra & Ferramentas:** Docker, GitHub Actions e Postman
 - **Bancos:** PostgreSQL e Redis
 
 ## 📌 Projetos
