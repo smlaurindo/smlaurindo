@@ -46,5 +46,5 @@ Crie seus próprios spaces, convide usuários e publique ou assine tópicos.
 
 ## 🌐 Onde me encontrar
 
-- **LinkedIn:** https://www.linkedin.com/in/samuel-laurindo-de-lima
+- **LinkedIn:** https://www.linkedin.com/in/smlaurindo
 - **GitHub:** https://github.com/smlaurindo (Você já está aqui 😅)
